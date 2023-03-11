@@ -1,0 +1,89 @@
+┌─────────┤ LEAKS LOG ├─────────┐
+│ Total leaks found:         17 │
+│ Total leaks size:         528 │
+├───────────────────────────────┤
+│ address:       0x7fd19a402630 │
+│ size (bytes):              80 │
+│ file:                  main.c │
+│ line:                     549 │
+├───────────────────────────────┤
+│ address:       0x7fd19a600130 │
+│ size (bytes):              48 │
+│ file:               ft_list.c │
+│ line:                      44 │
+├───────────────────────────────┤
+│ address:       0x7fd19a6001a0 │
+│ size (bytes):               8 │
+│ file:                  main.c │
+│ line:                     493 │
+├───────────────────────────────┤
+│ address:       0x7fd19a4068e0 │
+│ size (bytes):              48 │
+│ file:               ft_list.c │
+│ line:                      44 │
+├───────────────────────────────┤
+│ address:       0x7fd19a406950 │
+│ size (bytes):               8 │
+│ file:                  main.c │
+│ line:                     493 │
+├───────────────────────────────┤
+│ address:       0x7fd19a407660 │
+│ size (bytes):              48 │
+│ file:               ft_list.c │
+│ line:                      44 │
+├───────────────────────────────┤
+│ address:       0x7fd19a4076d0 │
+│ size (bytes):               8 │
+│ file:                  main.c │
+│ line:                     493 │
+├───────────────────────────────┤
+│ address:       0x7fd19a500160 │
+│ size (bytes):              48 │
+│ file:               ft_list.c │
+│ line:                      44 │
+├───────────────────────────────┤
+│ address:       0x7fd19a5001d0 │
+│ size (bytes):               8 │
+│ file:                  main.c │
+│ line:                     493 │
+├───────────────────────────────┤
+│ address:       0x7fd19a700130 │
+│ size (bytes):              48 │
+│ file:               ft_list.c │
+│ line:                      44 │
+├───────────────────────────────┤
+│ address:       0x7fd19a7001a0 │
+│ size (bytes):               8 │
+│ file:                  main.c │
+│ line:                     493 │
+├───────────────────────────────┤
+│ address:       0x7fd19a600320 │
+│ size (bytes):              48 │
+│ file:               ft_list.c │
+│ line:                      44 │
+├───────────────────────────────┤
+│ address:       0x7fd19a600390 │
+│ size (bytes):               8 │
+│ file:                  main.c │
+│ line:                     493 │
+├───────────────────────────────┤
+│ address:       0x7fd19a500560 │
+│ size (bytes):              48 │
+│ file:               ft_list.c │
+│ line:                      44 │
+├───────────────────────────────┤
+│ address:       0x7fd19a5005d0 │
+│ size (bytes):               8 │
+│ file:                  main.c │
+│ line:                     493 │
+├───────────────────────────────┤
+│ address:       0x7fd19a700410 │
+│ size (bytes):              48 │
+│ file:               ft_list.c │
+│ line:                      44 │
+├───────────────────────────────┤
+│ address:       0x7fd19a700480 │
+│ size (bytes):               8 │
+│ file:                  main.c │
+│ line:                     493 │
+└───────────────────────────────┘└───────────────────────────────┘
