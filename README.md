@@ -2,9 +2,9 @@
 <h3 align="center">my goal in the future full stack Web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **phyton | django**
+- 🌱 I’m currently learning **Nest js**
 
-- 💬 Ask me about **c, c++, docker, VM, networking, system administration**
+- 💬 Ask me about **c, c++, docker, VM, networking, system administration, Django**
 
 - 📫 How to reach me **hallalkhalifa3@gmail.com**
 
